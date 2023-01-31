@@ -1,5 +1,8 @@
 # Web-Scraper-Assignment
 
+My task was to extract specific data from the "task 1 - Kempinski Hotel..."-HTML file.  
+Here is what I did: 
+
 This scraper uses Python3 and Selenium. The input is HTML and the output a JSON string.
 
 Selenium for Python can be downloaded via pip, this is the documentation:
