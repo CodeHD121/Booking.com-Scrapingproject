@@ -1,4 +1,4 @@
-# Web-Scraper-Assignment
+# Scraping Booking.com HTML files
 
 My task was to extract specific data from the "Target HTML - Kempinski Hotel"-HTML file.  
 Here is what I did: 
