@@ -31,6 +31,9 @@ On this picture you can see some of the highlighted (colored) parts that I was s
 
 You can see the complete sceenshot as "Target.png"
 
+Here you can see the corresponding parts in my code, labeled with their color from the Target.png 
+![Code-Peek](https://github.com/CodeHD121/Booking.com-Scrapingproject/assets/91540358/6321a001-2915-45d1-a671-3f8ce87cbd58)
+
 My JSON-output looks like this:
 ![JSON Peek](https://github.com/CodeHD121/Booking.com-Scrapingproject/assets/91540358/4f330a79-2605-4a37-bae0-1e092ba19d67)
 
