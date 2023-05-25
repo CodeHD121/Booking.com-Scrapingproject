@@ -27,7 +27,7 @@ JSON_OUTPUT_NAME is just the name of the output JSON - if not changed it will cr
 To start you just need to run the file. The output will be stored in the same directory.
 
 On this picture you can see some of the highlighted (colored) parts that I was supposed to extract:
-![JSON Peek](https://github.com/CodeHD121/Booking.com-Scrapingproject/assets/91540358/c9c90a9a-1047-45d4-a54c-686513ac0586)
+![Target](https://github.com/CodeHD121/Booking.com-Scrapingproject/assets/91540358/ee7d0d18-64f2-4c6d-a22b-0e4c75e7cfeb)
 
 You can see the complete sceenshot as "Target.png"
 
